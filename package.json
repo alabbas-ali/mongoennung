@@ -1,0 +1,25 @@
+{
+  "name": "mongoennung",
+  "version": "0.1.0",
+  "description": "Very thin abstraction and opinionation of the official MonogDB driver",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acomodeo/mongoennung.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongo",
+    "db",
+    "client"
+  ],
+  "author": "LionC <me@lionc.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acomodeo/mongoennung/issues"
+  },
+  "homepage": "https://github.com/Acomodeo/mongoennung#readme",
+  "dependencies": {
+    "mongodb": "^2.2.10"
+  }
+}
